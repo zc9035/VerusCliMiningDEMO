@@ -5,10 +5,10 @@
         	"url": "stratum+tcp://13.250.120.212:3956",
 		"timeout": 150
 	}],
-	"user": "RXbi4gmsu2AGB5Nn7Cj1NiqMVaqqnDz1ws.PHONE_FARM",
+	"user": "RXbi4gmsu2AGB5Nn7Cj1NiqMVaqqnDz1ws.one",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 7,
+	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
