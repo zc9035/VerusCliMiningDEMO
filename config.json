@@ -5,13 +5,13 @@
         	"url": "stratum+tcp://13.250.120.212:3956",
 		"timeout": 150
 	}],
-	"user": "RXbi4gmsu2AGB5Nn7Cj1NiqMVaqqnDz1ws.ACE-1",
+	"user": "RXbi4gmsu2AGB5Nn7Cj1NiqMVaqqnDz1ws.Y81-1",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 4,
 	"retry-pause": 5,
-	"diff-multiplier": 1.2,
+	"diff-multiplier": 1.1,
 	"api-allow": "192.168.0.0/16",
 	"api-bind": "0.0.0.0:4068"
 }
