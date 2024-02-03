@@ -11,7 +11,7 @@
 	"threads": 8,
 	"cpu-priority": 4,
 	"retry-pause": 5,
-	"diff-multiplier": 1.5,
+	"diff-multiplier": 1.3,
 	"api-allow": "192.168.0.0/16",
 	"api-bind": "0.0.0.0:4068"
 }
