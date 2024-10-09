@@ -5,10 +5,10 @@
         	"url": "stratum+tcp://13.250.120.212:3956",
 		"timeout": 150
 	}],
-	"user": "RXbi4gmsu2AGB5Nn7Cj1NiqMVaqqnDz1ws.S6-32",
+	"user": "RXbi4gmsu2AGB5Nn7Cj1NiqMVaqqnDz1ws.R3399",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 8,
+	"threads": 6,
 	"cpu-priority": 4,
 	"retry-pause": 5,
 	"diff-multiplier": 1.1,
