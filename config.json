@@ -2,10 +2,10 @@
 	"pools":[
 	{
 		"name": "LuckPool",
-        	"url": "stratum+tcp://13.250.120.212:3956",
+        	"url": "stratum+tcp://cn.vipor.net:5040",
 		"timeout": 150
 	}],
-	"user": "RXbi4gmsu2AGB5Nn7Cj1NiqMVaqqnDz1ws.R3399",
+	"user": "RXbi4gmsu2AGB5Nn7Cj1NiqMVaqqnDz1ws.A311D",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 6,
